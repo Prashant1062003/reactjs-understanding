@@ -1,0 +1,18 @@
+nav{
+  width: 100%;
+  background-color: #121212;
+  padding: 23px;
+  display: flex;
+}
+*{
+  margin: 0;
+  padding: 0;
+}
+nav a{
+  color: white;
+  text-decoration: none;
+  margin-right: 10px;
+}
+a li{
+  list-style: none;
+}
